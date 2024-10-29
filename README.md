@@ -17,6 +17,8 @@ Machine Learning: Hands-on experience in developing and implementing machine lea
 
 Frameworks & Tools: Pandas, Scikit-learn, NumPy, PyTorch, Keras, TensorFlow, LaTeX, Microsoft Office
 
+Containers: Docker, Kubernets, Jenkins
+
 Web Technologies: HTML, CSS, JS, Flask, JS Frameworks, Surge 
 
 📈 Let's connect and explore how I can contribute to your data-driven projects!
