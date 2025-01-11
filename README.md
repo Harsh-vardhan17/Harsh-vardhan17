@@ -1,5 +1,5 @@
 ## **Hi there 👋, I'm Harshavardhan**
-### ***Aspiring Data Analyst***
+### ***Aspiring Data Professional***
 
 I bring a strong data background and a love for uncovering insights to the table. My experience working with Python, SQL, and Power BI/Tableau allows me to transform complex datasets into actionable knowledge.
 
